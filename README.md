@@ -54,8 +54,7 @@
     <th>یک شنبه</th>
   </tr>
    <tr>
-     <th [روش پژوهش و ارائه 02 1322010]
-<br>></th>https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods
+     <th [روش پژوهش و ارائه ]<br>></th>https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods
      <th ></th>
      <th></th>
      <th></th>
